@@ -5,14 +5,14 @@
 	* Content-based: too much metadata needed
 	* CFs: unaware of product attributes
 		* Item-based/Model-based: Similar users -> recommendation
-			- Sparcity
+			- Sparcity Problem 
 			- Poor Scalability
+			* Purchase-based: more complementary products recommended
+			* View-based: more substitute products recommended
 			User Rating Model -> User-item matrix: 
 				* Bayesian network (probablistic) 
 				* clustering (classification): P(User belongs to group i)
 				* rule-based
-			* Purchase-based: more complementary products recommended
-			* View-based: more substitute products recommended
 		* User-based/Memory-based: user who rated both i & j
 			- Accuracy
 			- Scalability
@@ -42,8 +42,8 @@
 ## Recommender System Influence
 * Individual choices: major impact
 * Sales diversity: increase/decrease. popular -> more popular
+
 -> product inventory 
 -> supply chain structures
 
 
-#[01] CMU/44 RA#
