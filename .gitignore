@@ -1,1 +1,3 @@
-./*.pdf
+*.pdf
+# Jupyter Notebook
+.ipynb_checkpoints
