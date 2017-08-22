@@ -7,13 +7,16 @@
 		* Item-based/Model-based: Similar users -> recommendation
 			- Sparcity Problem 
 			- Poor Scalability
-			- Purchase-based: more complementary products recommended
-			- View-based: more substitute products recommended
 			
 			User Rating Model -> User-item matrix: 
 				- Bayesian network (probablistic) 
 				- clustering (classification): P(User belongs to group i)
 				- rule-based
+				
+			- Purchase-based: more complementary products recommended
+			- View-based: more substitute products recommended
+			
+
 		* User-based/Memory-based: user who rated both i & j
 			- Accuracy
 			- Scalability
