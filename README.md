@@ -11,6 +11,7 @@
 			- View-based: more substitute products recommended
 			
 			User Rating Model -> User-item matrix: 
+			
 				* Bayesian network (probablistic) 
 				* clustering (classification): P(User belongs to group i)
 				* rule-based
